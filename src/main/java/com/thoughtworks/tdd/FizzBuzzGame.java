@@ -11,9 +11,9 @@ public class FizzBuzzGame {
 				}
 				return "FizzBuzz";
 			}
-			return "fizz";
+			return "Fizz";
 		} else if (i % 5 == 0) {
-			return "buzz";
+			return "Buzz";
 
 		} else if (i % 7 == 0) {
 			return "Whizz";
